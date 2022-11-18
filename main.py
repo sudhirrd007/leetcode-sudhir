@@ -4,6 +4,10 @@ import string
 import sqlite3
 import pandas as pd
 
+
+def log(string, show=True):
+    print(string)
+
 # Constants -------------------------------------
 FOLDER_MAPPINGS = {
     'ARRAY': {'title': 'Array', 'folderName': 'Array', 'readmeName': 'array'},
@@ -144,7 +148,7 @@ def introStringReadMe():
     return INTRO_STRING
 
 def indexStringReadMe():
-    INDEX_STRING = ""
+    INDEX_STRING = "# Index\n"
     ALPHABET_LIST = list(string.ascii_lowercase)
 
     for alphabet in ALPHABET_LIST:
@@ -197,7 +201,7 @@ for dataRow in df.iterrows():
         folderLoc = FOLDER_MAPPINGS[tag]['folderName']
         fileName = row['filename']
         DICT['filelocation'] = f'./{folderLoc}/{fileName}'
-        DATA[tag].append(DICT)
+        DATA[tag].append(DICT.copy())
 
 
 for tag in sorted(list(FOLDER_MAPPINGS.keys())):
@@ -221,7 +225,7 @@ def contentStringReadMe():
             TEMP_CONTENT_STRING += " | " + "[Redirect](" + row['leetcodelink'] + ")"
             TEMP_CONTENT_STRING += " | " + str(row['notes']) + "|\n"
 
-        CONTENT_STRING += TEMP_CONTENT_STRING + "\n"
+        CONTENT_STRING += TEMP_CONTENT_STRING + "\n [⬆️ Back to index](#index) <br> \n\n"
     return CONTENT_STRING
 
 
