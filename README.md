@@ -38,8 +38,8 @@ R <br>
 
 |  #  | Title  |   Difficulty  |    Language   | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------------- | ------------- | ----- |
-| 1 | [Two Sum](./Array/0001_Two_sum.py) | easy | [python](./Array/0001_Two_sum.py) | 49.1% | [Redirect](https://leetcode.com/problems/two-sum/) | |
-| 4 | [Median of Two Sorted Arrays](./Array/0004_Median_of_Two_Sorted_Arrays.py) | hard | [python](./Array/0004_Median_of_Two_Sorted_Arrays.py) | 49.1% | [Redirect](https://leetcode.com/problems/two-sum/) | |
+| 1 | [Two Sum](../Array/0001_Two_sum.py) | easy | [python](../Array/0001_Two_sum.py) | 49.1% | [Redirect](https://leetcode.com/problems/two-sum/) | |
+| 4 | [Median of Two Sorted Arrays](../Array/0004_Median_of_Two_Sorted_Arrays.py) | hard | [python](../Array/0004_Median_of_Two_Sorted_Arrays.py) | 49.1% | [Redirect](https://leetcode.com/problems/two-sum/) | |
 
 [⬆️ Back to index](#index) <br> 
 
@@ -47,7 +47,7 @@ R <br>
 
 |  #  | Title  |   Difficulty  |    Language   | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------------- | ------------- | ----- |
-| 4 | [Median of Two Sorted Arrays](./BinarySearch/0004_Median_of_Two_Sorted_Arrays.py) | hard | [python](./BinarySearch/0004_Median_of_Two_Sorted_Arrays.py) | 49.1% | [Redirect](https://leetcode.com/problems/two-sum/) | |
+| 4 | [Median of Two Sorted Arrays](../BinarySearch/0004_Median_of_Two_Sorted_Arrays.py) | hard | [python](../BinarySearch/0004_Median_of_Two_Sorted_Arrays.py) | 49.1% | [Redirect](https://leetcode.com/problems/two-sum/) | |
 
 [⬆️ Back to index](#index) <br> 
 
@@ -55,7 +55,7 @@ R <br>
 
 |  #  | Title  |   Difficulty  |    Language   | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------------- | ------------- | ----- |
-| 4 | [Median of Two Sorted Arrays](./DivideAndConquer/0004_Median_of_Two_Sorted_Arrays.py) | hard | [python](./DivideAndConquer/0004_Median_of_Two_Sorted_Arrays.py) | 49.1% | [Redirect](https://leetcode.com/problems/two-sum/) | |
+| 4 | [Median of Two Sorted Arrays](../DivideAndConquer/0004_Median_of_Two_Sorted_Arrays.py) | hard | [python](../DivideAndConquer/0004_Median_of_Two_Sorted_Arrays.py) | 49.1% | [Redirect](https://leetcode.com/problems/two-sum/) | |
 
 [⬆️ Back to index](#index) <br> 
 
@@ -63,7 +63,7 @@ R <br>
 
 |  #  | Title  |   Difficulty  |    Language   | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------------- | ------------- | ----- |
-| 1 | [Two Sum](./HashTable/0001_Two_sum.py) | easy | [python](./HashTable/0001_Two_sum.py) | 49.1% | [Redirect](https://leetcode.com/problems/two-sum/) | |
+| 1 | [Two Sum](../HashTable/0001_Two_sum.py) | easy | [python](../HashTable/0001_Two_sum.py) | 49.1% | [Redirect](https://leetcode.com/problems/two-sum/) | |
 
 [⬆️ Back to index](#index) <br> 
 
@@ -71,7 +71,7 @@ R <br>
 
 |  #  | Title  |   Difficulty  |    Language   | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------------- | ------------- | ----- |
-| 2 | [Add Two Numbers](./LinkedList/0002_Add_Two_Numbers.py) | medium | [python](./LinkedList/0002_Add_Two_Numbers.py) | 39.8% | [Redirect](https://leetcode.com/problems/add-two-numbers/) | |
+| 2 | [Add Two Numbers](../LinkedList/0002_Add_Two_Numbers.py) | medium | [python](../LinkedList/0002_Add_Two_Numbers.py) | 39.8% | [Redirect](https://leetcode.com/problems/add-two-numbers/) | |
 
 [⬆️ Back to index](#index) <br> 
 
@@ -79,7 +79,7 @@ R <br>
 
 |  #  | Title  |   Difficulty  |    Language   | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------------- | ------------- | ----- |
-| 2 | [Add Two Numbers](./Math/0002_Add_Two_Numbers.py) | medium | [python](./Math/0002_Add_Two_Numbers.py) | 39.8% | [Redirect](https://leetcode.com/problems/add-two-numbers/) | |
+| 2 | [Add Two Numbers](../Math/0002_Add_Two_Numbers.py) | medium | [python](../Math/0002_Add_Two_Numbers.py) | 39.8% | [Redirect](https://leetcode.com/problems/add-two-numbers/) | |
 
 [⬆️ Back to index](#index) <br> 
 
@@ -87,7 +87,7 @@ R <br>
 
 |  #  | Title  |   Difficulty  |    Language   | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------------- | ------------- | ----- |
-| 2 | [Add Two Numbers](./Recursion/0002_Add_Two_Numbers.py) | medium | [python](./Recursion/0002_Add_Two_Numbers.py) | 39.8% | [Redirect](https://leetcode.com/problems/add-two-numbers/) | |
+| 2 | [Add Two Numbers](../Recursion/0002_Add_Two_Numbers.py) | medium | [python](../Recursion/0002_Add_Two_Numbers.py) | 39.8% | [Redirect](https://leetcode.com/problems/add-two-numbers/) | |
 
 [⬆️ Back to index](#index) <br> 
 

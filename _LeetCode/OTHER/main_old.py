@@ -1,3 +1,4 @@
+# This file was in the top hierarchy 
 import os
 import shutil
 import string
