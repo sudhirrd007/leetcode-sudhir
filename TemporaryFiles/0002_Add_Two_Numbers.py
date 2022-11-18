@@ -1,10 +1,14 @@
-# number = 0002
-# fileName = 0002_Add_Two_Numbers.py
-# difficulty = medium
-# language = python
-# leetcodeLink = https://leetcode.com/problems/add-two-numbers/
-# tags = LINKEDLIST, RECURSION, MATH
-# end = 
+# number-srd = 0002
+# title-srd = Add Two Numbers
+# filename-srd = 0002_Add_Two_Numbers.py
+# difficulty-srd = medium
+# language-srd = python
+# tags-srd = LINKEDLIST, MATH, RECURSION
+# leetcodelink-srd = https://leetcode.com/problems/add-two-numbers/
+# acceptancerate-srd = 39.8%
+# notes-srd = 
+# end-srd = 
+
 
 
 # Definition for singly-linked list.
